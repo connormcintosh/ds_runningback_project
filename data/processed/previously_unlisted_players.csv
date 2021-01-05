@@ -1,0 +1,392 @@
+,playerid,playername,pos
+0,AAbduRa00,Rabih Abdullah,rb
+1,AAlleAn01,Anthony Allen,rb
+2,AAlleAr00,Armando Allen,rb
+3,AAndeDa00,Damien Anderson ,rb
+4,AArchDr00,Dri Archer,rb
+5,AArchMi00,Mike Archie,rb
+6,AArmsRy00,Ryquell Armstead,rb
+7,AArtiCa00,Cameron Artis-Payne,rb
+8,AAskaJo00,Joe Aska,rb
+9,AAverJo00,John Avery,rb
+10,BBailJo00,Johnny Bailey,rb
+11,BBakeEd01,Edwin Baker,rb
+12,BBaldRa00,Randy Baldwin,rb
+13,BBallLa00,Lance Ball,rb
+14,BBallMo00,Montee Ball,rb
+15,BBankTa00,Tavian Banks,rb
+16,BBanyJo00,Joe Banyard,rb
+17,BBarnKe00,Kenjon Barner,rb
+18,BBasnMi00,Michael Basnight,rb
+19,BBatcBa00,Baron Batch,rb
+20,BBateMi00,Michael Bates,rb
+21,BBellKa00,Kahlil Bell,rb
+22,BBellWi20,William Bell,rb
+23,BBendWe00,Wes Bender,rb
+24,BBennBr00,Brandon Bennett,rb
+25,BBennSe00,Sean Bennett,rb
+26,BBernRo00,Rod Bernstine,rb
+27,BBibbKa00,Kapri Bibbs,rb
+28,BBienEr00,Eric Bieniemy,rb
+29,BBoldBr00,Brandon Bolden,rb
+30,BBonnRe00,Reggie Bonnafon,rb
+31,BBookLo00,Lorenzo Booker,rb
+32,BBoonMi00,Mike Boone,rb
+33,BBostJa00,James Bostic,rb
+34,BBouiKe20,Kevin Bouie,rb
+35,BBoweRJ00,R.J. Bowers,rb
+36,BBradFr00,Freddie Bradley,rb
+37,BBranJa00,Jamaal Branch,rb
+38,BBratJa20,Jason Bratton,rb
+39,BBrinCu00,Curtis Brinkley,rb
+40,BBrooRe00,Reggie Brooks,rb
+41,BBrooTo01,Tony Brooks-James,rb
+42,BBrouSt00,Steve Broussard,rb
+43,BBrowAa00,Aaron Brown,rb
+44,BBrowBr02,Bryce Brown,rb
+45,BBrowDe02,Dee Brown,rb
+46,BBrowMa02,Mack Brown,rb
+47,BBrowMa03,Malcolm Brown ,rb
+48,BBuckEl00,Eldra Buckley,rb
+49,BBurkRe00,Rex Burkhead ,rb
+50,BBurnJo00,Joe Burns,rb
+51,BButtMa00,Marion Butts,rb
+52,CCadeTr00,Travaris Cadet,rb
+53,CCalhBr00,Brian Calhoun,rb
+54,CCannTr00,Trenton Cannon,rb
+55,CCareKa00,Ka'Deem Carey,rb
+56,CCarsTr01,Tra Carson,rb
+57,CCartDe00,Dexter Carter ,rb
+58,CCartDe01,Delone Carter ,rb
+59,CCartRa00,Ran Carthon,rb
+60,CCartRo01,Rock Cartwright,rb
+61,CCasoAv00,Aveion Cason,rb
+62,CChapDo00,Doug Chapman,rb
+63,CChoiTa00,Tashard Choice,rb
+64,CChriRy20,Ryan Christopherson,rb
+65,CClayJo00,John Clay,rb
+66,CClayTh00,Thomas Clayton,rb
+67,CClemCo00,Corey Clement,rb
+68,CClouMi00,Mike Cloud ,rb
+69,CCobbCe00,Cedric Cobbs,rb
+70,CCobbDa00,David Cobb,rb
+71,CCobbPa00,Patrick Cobbs,rb
+72,CCobbRe00,Reggie Cobb ,rb
+73,CCoboAv00,Avon Cobourne,rb
+74,CCoffGl00,Glen Coffee,rb
+75,CColeKa00,KaRon Coleman,rb
+76,CCoopRa00,Rafael Cooper,rb
+77,CCoxxMi00,Michael Cox,rb
+78,CCrocJo00,John Crockett,rb
+79,CCrooCo00,Corey Croom,rb
+80,CCrooLa00,Larry Croom,rb
+81,CCullDe00,Derrick Cullors,rb
+82,CCulvRo00,Rodney Culver,rb
+83,CCunnBe01,Benny Cunningham,rb
+84,DDallDe00,DeeJay Dallas,rb
+85,DDantWo00,Woodrow Dantzler,rb
+86,DDarbKe00,Kenneth Darby,rb
+87,DDaveNa00,Najeh Davenport ,rb
+88,DDaviJa03,James Davis,rb
+89,DDaviKn00,Knile Davis ,rb
+90,DDawkDa01,Dalyn Dawkins,rb
+91,DDawsCl00,Clifton Dawson,rb
+92,DDayeMa00,Matthew Dayes,rb
+93,DDensAu00,Autry Denson,rb
+94,DDillAJ00,AJ Dillon,rb
+95,DDixoAn00,Anthony Dixon,rb
+96,DDixoKe00,Kenneth Dixon,rb
+97,DDobbJK00,J.K. Dobbins ,rb
+98,DDorsDe00,De Dorsey,rb
+99,DDowdRi01,Rico Dowdle,rb
+100,DDownGa00,Gary Downs,rb
+101,DDrauSh00,Shaun Draughn,rb
+102,DDunbLa00,Lance Dunbar,rb
+103,DDunbVa00,Vaughn Dunbar,rb
+104,EEachNa00,Nate Eachus,rb
+105,EEcheAd00,Adimchinobe Echemandu,rb
+106,EEdmoBo00,Bobby Joe Edmonds,rb
+107,EEdmuTr00,Trey Edmunds,rb
+108,EEliaKe00,Keith Elias,rb
+109,EElliJe00,Jerry Ellison,rb
+110,EErviRi00,Ricky Ervins,rb
+111,EErviTy00,Tyler Ervin ,rb
+112,EEvanDa02,Darrynton Evans ,rb
+113,FFarrKe02,Kenneth Farrow,rb
+114,FFasoCi00,Ciatrick Fason,rb
+115,FFendJa00,James Fenderson ,rb
+116,FFergJo02,Josh Ferguson,rb
+117,FFishTo00,Tony Fisher,rb
+118,FFordKe00,Keith Ford,rb
+119,FForeDO00,D'Onta Foreman,rb
+120,FForsBr00,Brock Forsey,rb
+121,FFostD.01,D.J. Foster ,rb
+122,FFranJo01,Johnathan Franklin,rb
+123,GGantQu00,Quinton Ganther,rb
+124,GGaskKe00,Kendall Gaskins,rb
+125,GGayxBe00,Ben Gay ,rb
+126,GGillMi00,Mike Gillislee ,rb
+127,GGoodMi00,Mike Goodson,rb
+128,GGordLe00,Lennox Gordon,rb
+129,GGrahJa00,Jay Graham,rb
+130,GGrahRa00,Ray Graham,rb
+131,GGranCo00,Corey Grant,rb
+132,GGrayCy00,Cyrus Gray,rb
+133,GGrayJo00,Jonas Gray,rb
+134,GGreeAl00,Alex Green,rb
+135,GGreeRo00,Robert Green,rb
+136,GGreeTi00,Tion Green,rb
+137,GGricMa00,Marion Grice,rb
+138,GGrieMa00,Marrio Grier,rb
+139,GGrifQu00,Quentin Griffin,rb
+140,GGrimJo01,Jonathan Grimes,rb
+141,GGuicDe00,Derrius Guice,rb
+142,HHallAn01,Andre Hall,rb
+143,HHallTi20,Tim Hall,rb
+144,HHamiLy20,Lynell Hamilton,rb
+145,HHansBy00,Byron Hanspard,rb
+146,HHardMo00,Montario Hardesty,rb
+147,HHarpJa01,Jamie Harper,rb
+148,HHarrAr00,Arlen Harris,rb
+149,HHarrDu01,DuJuan Harris,rb
+150,HHarrGi00,Gilbert Harris,rb
+151,HHarrJo01,Joey Harris,rb
+152,HHarrJo04,Josh Harris,rb
+153,HHartMi00,Mike Hart ,rb
+154,HHartMy00,Myles Hartsfield,rb
+155,HHastJa02,Jamycal Hasty,rb
+156,HHaydAa00,Aaron Hayden,rb
+157,HHaynJa00,Jarryd Hayne,rb
+158,HHaynVe00,Verron Haynes,rb
+159,HHebrVa00,Vaughn Hebron,rb
+160,HHendDe01,De'Angelo Henderson,rb
+161,HHenlJu00,June Henley,rb
+162,HHenrCh01,Chris Henry ,rb
+163,HHenrLe20,Leonard Henry ,rb
+164,HHerrDa00,Dan Herron,rb
+165,HHerrNo00,Noah Herron,rb
+166,HHickMa00,Maurice Hicks,rb
+167,HHickMi20,Michael Hicks,rb
+168,HHillBr02,Brian Hill,rb
+169,HHillDo00,Dontrell Hilliard,rb
+170,HHillJo03,Jon Hilliman,rb
+171,HHillJu00,Justice Hill,rb
+172,HHillLe00,Lex Hilliard,rb
+173,HHillMi00,Michael Hill,rb
+174,HHillWe00,Wes Hills,rb
+175,HHineNy00,Nyheim Hines,rb
+176,HHollTo00,Tony Hollings,rb
+177,HHomeTr00,Travis Homer,rb
+178,HHousCe00,Cedric Houston,rb
+179,HHowaCh00,Chris Howard,rb
+180,HHoweGr00,Buddy Howell ,rb
+181,HHuggKa00,Kareem Huggins,rb
+182,HHuntKe00,Kendall Hunter,rb
+183,HHuntTo01,Tony Hunt,rb
+184,IIrviSe00,Sedrick Irvin,rb
+185,JJackDa01,Darius Jackson,rb
+186,JJackDo01,Don Jackson,rb
+187,JJackTe00,Terry Jackson,rb
+188,JJameJa00,Javarris James,rb
+189,JJameLa00,LaMichael James,rb
+190,JJameMi00,Mike James ,rb
+191,JJennCh00,Chris Jennings,rb
+192,JJohnDE04,D'Ernest Johnson,rb
+193,JJohnGa01,Gartrell Johnson,rb
+194,JJohnJa02,James Johnson,rb
+195,JJohnJe01,Jeremiah Johnson,rb
+196,JJohnLe00,Leon Johnson,rb
+197,JJohnSt03,Storm Johnson,rb
+198,JJohnTy02,Ty Johnson,rb
+199,JJoneCa00,Calvin Jones,rb
+200,JJoneGe00,George Jones,rb
+201,JJoneTa00,Taiwan Jones,rb
+202,JJordRa00,Randy Jordan,rb
+203,JJoseEl00,Elvis Joseph,rb
+204,JJoseJa00,James Joseph,rb
+205,JJourYo20,Yonel Jourdain,rb
+206,JJoycDe00,Delvin Joyce ,rb
+207,KKariDe00,Deji Karim,rb
+208,KKeatCu00,Curtis Keaton,rb
+209,KKeitKe00,Kenton Keith,rb
+210,KKellJo00,John Kelly,rb
+211,KKellJo01,Joshua Kelley,rb
+212,KKincKe00,Keylon Kincade,rb
+213,LLairPa00,Patrick Laird,rb
+214,LLaneEr20,Eric Lane,rb
+215,LLangJe00,Jeremy Langford,rb
+216,LLascDa00,Daniel Lasco,rb
+217,LLeexAm00,Amp Lee ,rb
+218,LLevyCh00,Chuck Levy,rb
+219,LLogaSt00,Stefan Logan,rb
+220,LLumpKr00,Kregg Lumpkin,rb
+221,LLynnAn00,Anthony Lynn,rb
+222,MMaduMo00,Mossis Madu,rb
+223,MMaheRe00,Reno Mahe,rb
+224,MMarsBy01,Byron Marshall,rb
+225,MMasoMa00,Marcus Mason,rb
+226,MMcAfFr00,Fred McAfee,rb
+227,MMcCoEr00,Eric McCoo,rb
+228,MMcDoKe01,Kevin McDougal,rb
+229,MMcFaAn00,Anthony McFarland Jr.,rb
+230,MMcGuEl00,Elijah McGuire ,rb
+231,MMcKnJo00,Joe McKnight ,rb
+232,MMcNiJe00,Jeremy McNichols ,rb
+233,MMcPhJe00,Jerris McPhail,rb
+234,MMealRo00,Rondell Mealey,rb
+235,MMeggDa00,Dave Meggett,rb
+236,MMichCh00,Christine Michael ,rb
+237,MMilbGl00,Glyn Milburn,rb
+238,MMinoTr00,Travis Minor,rb
+239,MMitcBa00,Basil Mitchell ,rb
+240,MMitcBr00,Brian Mitchell ,rb
+241,MMoatRy00,Ryan Moats,rb
+242,MMoorRo01,Ronald Moore,rb
+243,MMoreFr00,Frank Moreau,rb
+244,MMoreVe00,Vernand Morency,rb
+245,MMortCh00,Chad Morton,rb
+246,MMossBr20,Brent Moss,rb
+247,MMossZa00,Zack Moss ,rb
+248,MMungJa00,James Mungro,rb
+249,MMurpMa03,Marcus Murphy,rb
+250,MMurpRi00,Richard Murphy,rb
+251,NNancDi00,Dimitri Nance,rb
+252,NNashDa00,Damien Nash,rb
+253,NNewsDe00,Detrez Newsome,rb
+254,NNorwJe00,Jerious Norwood,rb
+255,OOgunDa00,Dare Ogunbowale,rb
+256,OOlivWi00,Winslow Oliver,rb
+257,OOlliQa00,Qadree Ollison,rb
+258,OOmonXa00,Xavier Omon,rb
+259,OOzigDe01,Devine Ozigbo,rb
+260,PPalmDa00,David Palmer,rb
+261,PParkDe00,De'Mond Parker,rb
+262,PParmJa00,Jalen Parmele,rb
+263,PPaytJa00,Jarrett Payton,rb
+264,PPeadIs00,Isaiah Pead,rb
+265,PPearAl00,Alvin Pearman,rb
+266,PPeerCe00,Cedric Peerman,rb
+267,PPennRa00,Rashaad Penny,rb
+268,PPeriLa00,La'Mical Perine ,rb
+269,PPerkPa00,Paul Perkins ,rb
+270,PPerrBr01,Bruce Perry ,rb
+271,PPerrSe00,Senorise Perry ,rb
+272,PPerrWi00,Wilmont Perry ,rb
+273,PPhilBo20,Bobby Phillips,rb
+274,PPhilDi00,Dino Philyaw,rb
+275,PPinnAr00,Artose Pinner,rb
+276,PPolkCh00,Chris Polk,rb
+277,PPopeP.20,P.J. Pope,rb
+278,PPopeTr00,Troymaine Pope,rb
+279,PPoweRi20,Ricky Powers,rb
+280,PPoweWi00,William Powell,rb
+281,PProsC.00,C.J. Prosise,rb
+282,RRainCh00,Chris Rainey,rb
+283,RRankLo00,Louis Rankin,rb
+284,RReavDa00,Darrin Reaves,rb
+285,RReddSi00,Silas Redd,rb
+286,RReynDa00,Darius Reynaud,rb
+287,RRichDa00,Daryl Richardson ,rb
+288,RRichJa01,Jalen Richard,rb
+289,RRichTe21,Terry Richardson ,rb
+290,RRingJa00,Javon Ringer,rb
+291,RRobeJa00,Jamal Robertson ,rb
+292,RRobiKh00,Khiry Robinson,rb
+293,RRossCo00,Cory Ross,rb
+294,RRoysEv00,Evan Royster,rb
+295,RRussGa00,Gary Russell,rb
+296,SSainBr00,Brandon Saine,rb
+297,SSamuJa00,Jaylen Samuels,rb
+298,SSavaDa20,Dantrell Savage,rb
+299,SScobJo00,Josh Scobey,rb
+300,SScotBe00,Bernard Scott,rb
+301,SScotDa01,Da'Rel Scott,rb
+302,SShawSe00,Sedrick Shaw,rb
+303,SShelEr00,Eric Shelton,rb
+304,SSimpCh00,Chad Simpson,rb
+305,SSimsCh00,Charles Sims,rb
+306,SSmarRo00,Rod Smart,rb
+307,SSmitAl22,Alfonso Smith,rb
+308,SSmitAn01,Antone Smith,rb
+309,SSmitCe00,Cedric Smith,rb
+310,SSmitCl22,Clifton Smith,rb
+311,SSmitIt00,Ito Smith,rb
+312,SSmitMu00,Musa Smith,rb
+313,SSmitRo06,Rod Smith,rb
+314,SSnelBe00,Benny Snell Jr.,rb
+315,SSnelJa00,Jason Snelling ,rb
+316,SSpikIr00,Irving Spikes,rb
+317,SStarJa00,James Starks,rb
+318,SStepTr00,Tremayne Stephens,rb
+319,SStewJa20,James Stewart,rb
+320,SStewJe00,Jeremy Stewart,rb
+321,SStitSh00,Shyrone Stith,rb
+322,SSuttTy00,Tyrell Sutton,rb
+323,SSwifDA00,D'Andre Swift ,rb
+324,TTannPh00,Phillip Tanner,rb
+325,TTaylCh02,Chris Taylor,rb
+326,TTaylJJ01,J.J. Taylor,rb
+327,TTaylSt00,Stepfan Taylor,rb
+328,TThigMa00,Marcus Thigpen,rb
+329,TThomBl00,Blair Thomas,rb
+330,TThomCh03,Chris Thompson,rb
+331,TThomDa00,David Thompson,rb
+332,TThomDa06,Darwin Thompson,rb
+333,TThomJu01,Juwan Thompson,rb
+334,TThomLe00,Leroy Thompson,rb
+335,TThomRo05,Roc Thomas,rb
+336,TThomTy00,Tyson Thompson,rb
+337,TTillLe00,Lewis Tillman ,rb
+338,TTindTi00,Tim Tindale,rb
+339,TTiptZu01,Zurlon Tipton,rb
+340,TTodmJo00,Jordan Todman,rb
+341,TToefLa00,LaBrandon Toefield,rb
+342,TTostKe00,Keith Toston,rb
+343,TTousFi00,Fitzgerald Toussaint,rb
+344,TTurbRo00,Robert Turbin,rb
+345,VVaugJo01,Josh Vaughan,rb
+346,VVaugKe00,Ke'Shawn Vaughn ,rb
+347,WWalkCo00,Corey Walker,rb
+348,WWalkDa00,Darius Walker,rb
+349,WWaltMa00,Mark Walton,rb
+350,WWardTe00,Terron Ward,rb
+351,WWareDa00,Danny Ware,rb
+352,WWarrLa00,Lamont Warren,rb
+353,WWashDa00,Damon Washington,rb
+354,WWashDe00,DeAndre Washington,rb
+355,WWashDw00,Dwayne Washington,rb
+356,WWatsTe00,Terrell Watson,rb
+357,WWattTr00,Trey Watts,rb
+358,WWhitFo00,Fozzy Whittaker ,rb
+359,WWhitJo01,Johnny White,rb
+360,WWhitLo00,Lorenzo White,rb
+361,WWhitRi00,Ricky Whittle,rb
+362,WWhytKe00,Kerrith Whyte Jr,rb
+363,WWildBr01,Brandon Wilds,rb
+364,WWileMi00,Michael Wiley,rb
+365,WWilkJo01,Jordan Wilkins,rb
+366,WWillDa011,David Williams,rb
+367,WWillDa10,Darrel Williams,rb
+368,WWillDe07,Dexter Williams,rb
+369,WWillJa05,Javarris Williams,rb
+370,WWillJa27,Jamal Willis,rb
+371,WWillJo07,Jonathan Williams,rb
+372,WWillKa01,Karlos Williams ,rb
+373,WWillKe03,Keiland Williams,rb
+374,WWillKe05,Kerwynn Williams,rb
+375,WWillRi01,Ricky Williams,rb
+376,WWillRy00,Ryan Williams,rb
+377,WWillSh00,Sherman Williams,rb
+378,WWillSh01,Shaud Williams,rb
+379,WWillWa02,Walter Williams,rb
+380,WWilsDa01,David Wilson,rb
+381,WWilsSh01,Shaun Wilson,rb
+382,WWinnGe00,George Winn,rb
+383,WWolfGa00,Garrett Wolfe,rb
+384,WWoodDa02,Danny Woodhead,rb
+385,WWorkVi00,Vince Workman,rb
+386,WWrigDw01,Dwayne Wright,rb
+387,WWrigJa01,Jason Wright,rb
+388,WWynnDe00,DeShawn Wynn,rb
+389,YYounAl01,Albert Young,rb
+390,ZZennZa00,Zach Zenner,rb
